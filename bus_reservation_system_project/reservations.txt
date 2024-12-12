@@ -1,0 +1,12 @@
+Bus Reservation Report
+----------------------
+Seat 1: Booked
+Seat 2: Booked
+Seat 3: Booked
+Seat 4: Empty
+Seat 5: Empty
+Seat 6: Empty
+Seat 7: Empty
+Seat 8: Empty
+Seat 9: Empty
+Seat 10: Empty
